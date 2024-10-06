@@ -1,2 +1,2 @@
 # kargoo
-Container deployment automation with pre-defined pipelines
+Container deployment automation tool with pre-defined pipelines
