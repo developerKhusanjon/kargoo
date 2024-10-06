@@ -1,2 +1,2 @@
 # kargoo
-Cargo tracking system
+Container deployment automation with pre-defined pipelines
