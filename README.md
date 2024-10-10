@@ -2,9 +2,9 @@
 Container deployment automation tool with pre-defined pipelines
 
 CRUD commands:
-  create deployment
-  edit deployment
-  delete deployment
+  create deployment     -    kubectl create deployment [name] 
+  edit deployment       -    kubectl edit deployement [name]
+  delete deployment     -    kubectl delete deployment [name]
 
 Status of components:
   nodes
