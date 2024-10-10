@@ -13,6 +13,6 @@ Status of components:
   relicaset
   deployment
 
-Debugging pods
+Debugging pods:
   log to console
   
