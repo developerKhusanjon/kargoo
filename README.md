@@ -26,6 +26,8 @@ Use configuration file for CRUD:
 ![image](https://github.com/user-attachments/assets/94ba6793-2a58-44a2-a792-c42427f8c8c3)
 ![image](https://github.com/user-attachments/assets/8733595c-d800-480a-a602-0459d5709bcf)
 ![image](https://github.com/user-attachments/assets/e6553514-c2e6-4857-b841-94842a2a2938)
+![image](https://github.com/user-attachments/assets/ce176b2e-f4d0-4558-a1ee-a2cbc47bb0fb)
+
 
 
 
