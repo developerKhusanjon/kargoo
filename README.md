@@ -1,5 +1,5 @@
 # kargoo
-Container deployment automation tool with pre-defined pipelines (... little hint, KotlinDSL will be used for this project)
+Container deployment as dsl style tool with pre-defined pipelines (... little hint, KotlinDSL will be used for this project)
 
 CRUD commands:
   create deployment     -    kubectl create deployment [name] 
